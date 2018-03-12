@@ -1,0 +1,119 @@
+/* Footer - Rodapé da Página */
+.footer {
+    color: white;
+    background-color: #363636; 
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 25px;
+    margin-top: 10px; 
+}
+
+
+/* CSS Referente o index.html */
+.sub-header {
+    height: auto;
+    margin-top: -2%;
+}
+
+.image-header {
+    width: 100%;
+}
+
+.logo-menu {
+    width: 28%;
+}
+
+.navbar{
+    margin-bottom: 0px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #1C1C1C; 
+}
+
+/* CSS do formulário da página adicionar.html */
+.form-control {
+    min-width:300px;
+}
+
+#label1{
+    font-size:15.2px;
+    height: auto;
+    color:#363636;
+}
+
+#label2{
+    font-size:15.2px;
+    height: auto;
+    margin-top:10px;
+    color:#363636;
+}
+
+/* CSS referente as redes sociais */
+#redes-sociais{
+    text-align: center;
+    font-size: 23px; 
+    color: #6495ED;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+#facebook-logo{
+    height: 100px;
+    width:100%;
+    padding-bottom: 10px;
+   
+}
+
+#linked-logo{
+    height: 100px;
+    padding-bottom: 10px;
+    width:100%;
+}
+
+#google-logo{
+    height: 100px;
+    padding-bottom: 10px;
+    width:100%;
+}
+
+
+/* CSS referente a página portfolio.html */
+#imagens-portfolio {
+    padding-top: 20px;
+    height: auto;
+    overflow: hidden; 
+    width: 100%;
+    margin: auto;
+    padding-bottom: 60px;
+}
+
+#texto-topo {
+    text-align: center;
+    font-size: 40px; 
+    color: #6495ED;
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+/* CSS Referente o botão de voltar para o topo */
+#voltar-topo{
+    padding-left:10px;
+    font-weight: bold;
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 12px;
+    padding: 1em;
+    /* opacity: 0.9; */
+}
+
+#voltar-topo:hover {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+
+
