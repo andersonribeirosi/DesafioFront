@@ -31,6 +31,7 @@
     background-color: #1C1C1C; 
 }
 
+
 /* CSS do formulário da página adicionar.html */
 .form-control {
     min-width:300px;
@@ -48,6 +49,7 @@
     margin-top:10px;
     color:#363636;
 }
+
 
 /* CSS referente as redes sociais */
 #redes-sociais{
@@ -96,6 +98,7 @@
     font-weight: bold;
 }
 
+
 /* CSS Referente o botão de voltar para o topo */
 #voltar-topo{
     padding-left:10px;
@@ -108,7 +111,6 @@
     background-color: rgba(0, 0, 0, 0.3);
     font-size: 12px;
     padding: 1em;
-    /* opacity: 0.9; */
 }
 
 #voltar-topo:hover {
